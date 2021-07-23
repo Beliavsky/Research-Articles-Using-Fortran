@@ -1,4 +1,4 @@
-# List of recent research articles using Fortran
+## List of recent research articles using Fortran
 
 [CPDINV](https://github.com/yinyih/CPDINV): **Software for estimating Curie depth using centroid method with wavelet spectrum and Fourier spectrum**, 
 associated with the [paper](https://academic.oup.com/gji/article-abstract/227/2/798/6313283)
