@@ -9,6 +9,6 @@ Felipe O.S. Zanon, Osis E.S. Leal, Alberto De Conti, "Implementation of the univ
 
 [fctables](https://github.com/mfontanaar/fctables): **Fortran 2003 program that computes FC-Gram tables** and [SPECTER (Special Periodic Continuation Turbulence Solver)](https://github.com/mfontanaar/SPECTER) for [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010465520302265?via%3Dihub)</br> 
 Fontana, M., Bruno, O. P., Mininni P. D. & Dmitruk P.; Fourier continuation method for incompressible fluids with boundaries. Comp. Phys. Comm. 256, 107482 (2020).DOI: 10.1016/j.cpc.2020.107482.
-</br>and [paper](https://www.mdpi.com/2073-4433/11/2/178)
+</br>and [paper](https://www.mdpi.com/2073-4433/11/2/178)</br>
 Rosenberg D. L., Mininni P. D., Reddy R. & Pouquet A.; GPU parallelization of a hybrid pseudospectral fluid turbulence framework using CUDA. Atmosphere 11, 178 (2020). DOI: 10.3390/atmos11020178.
 
