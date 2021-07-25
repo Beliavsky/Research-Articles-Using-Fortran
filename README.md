@@ -22,6 +22,6 @@ Bernardini, M., Modesti, D., Salvadore, F., & Pirozzoli, S. (2021). STREAmS: A h
 Schuch, F. N., Meiburg, E., & Silvestrini, J. H., "Plunging criterion for particle-laden flows over sloping bottoms: Three-dimensional turbulence-resolving simulations", Computers & Geosciences, 104880,</br>
 and many other papers listed [here](https://www.incompact3d.com/impact.html)
 
-[FFTE: A Fast Fourier Transform Package (version 7.0)](https://github.com/xhuanggit/ffte) for paper
+[FFTE: A Fast Fourier Transform Package (version 7.0)](https://github.com/xhuanggit/ffte) for paper</br>
 Daisuke Takahashi: "Implementation of Parallel 3-D Real FFT with 2-D Decomposition on Intel Xeon Phi Clusters", Proc. 13th International Conference on Parallel Processing and Applied Mathematics (PPAM 2019), Part I, Lecture Notes in Computer Science, Vol. 12043, pp. 151-161, Springer (2020).
 
