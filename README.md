@@ -12,3 +12,6 @@ Fontana, M., Bruno, O. P., Mininni P. D. & Dmitruk P.; "Fourier continuation met
 </br>and [paper](https://www.mdpi.com/2073-4433/11/2/178)</br>
 Rosenberg D. L., Mininni P. D., Reddy R. & Pouquet A.; "GPU parallelization of a hybrid pseudospectral fluid turbulence framework using CUDA" Atmosphere 11, 178 (2020). DOI: 10.3390/atmos11020178.
 
+[Town Energy Balance (TEB) model](https://github.com/TEB-model/teb) for [paper](https://joss.theoj.org/papers/10.21105/joss.02008)<br>
+Meyer, D., Schoetter, R., Masson, V., Grimmond, S., 2020: Enhanced software and platform for the Town Energy Balance (TEB) model. Journal of Open Source Software, 5(50), 2008. https://doi.org/10.21105/joss.02008.
+
