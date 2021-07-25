@@ -15,3 +15,6 @@ Rosenberg D. L., Mininni P. D., Reddy R. & Pouquet A.; "GPU parallelization of a
 [Town Energy Balance (TEB) model](https://github.com/TEB-model/teb) for [paper](https://joss.theoj.org/papers/10.21105/joss.02008)<br>
 Meyer, D., Schoetter, R., Masson, V., Grimmond, S., 2020: Enhanced software and platform for the Town Energy Balance (TEB) model. Journal of Open Source Software, 5(50), 2008. https://doi.org/10.21105/joss.02008.
 
+[Supersonic TuRbulEnt Accelerated navier stokes Solver (STREAMS)](https://github.com/matteobernardini/STREAmS) for [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010465521000473?via%3Dihub)</br>
+Bernardini, M., Modesti, D., Salvadore, F., & Pirozzoli, S. (2021). STREAmS: A high-fidelity accelerated solver for direct numerical simulation of compressible turbulent flows. Computer Physics Communications, 263, 107906. https://doi.org/10.1016/j.cpc.2021.107906
+
