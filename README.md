@@ -25,3 +25,7 @@ and many other papers listed [here](https://www.incompact3d.com/impact.html)
 [FFTE: A Fast Fourier Transform Package (version 7.0)](https://github.com/xhuanggit/ffte) for paper</br>
 Daisuke Takahashi: "Implementation of Parallel 3-D Real FFT with 2-D Decomposition on Intel Xeon Phi Clusters", Proc. 13th International Conference on Parallel Processing and Applied Mathematics (PPAM 2019), Part I, Lecture Notes in Computer Science, Vol. 12043, pp. 151-161, Springer (2020).
 
+[Hormonal-regulation-of-growth-in-juvenile-fish](https://github.com/JacquelineWeidner/Hormonal-regulation-of-growth-in-juvenile-fish) for [paper](https://journals.biologists.com/bio/article/9/2/bio046144/222754/Hormones-as-adaptive-control-systems-in-juvenile)</br>
+17 FEBRUARY 2020, Open Biology, "Hormones as adaptive control systems in juvenile fish", by Jacqueline Weidner, Camilla Håkonsrud Jensen , Jarl Giske, Sigrunn Eliassen, and Christian Jørgensen 
+
+
