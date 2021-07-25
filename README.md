@@ -18,7 +18,7 @@ Meyer, D., Schoetter, R., Masson, V., Grimmond, S., 2020: Enhanced software and 
 [Supersonic TuRbulEnt Accelerated navier stokes Solver (STREAMS)](https://github.com/matteobernardini/STREAmS) for [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010465521000473?via%3Dihub)</br>
 Bernardini, M., Modesti, D., Salvadore, F., & Pirozzoli, S. (2021). STREAmS: A high-fidelity accelerated solver for direct numerical simulation of compressible turbulent flows. Computer Physics Communications, 263, 107906. https://doi.org/10.1016/j.cpc.2021.107906
 
-[Incompact3d](https://github.com/xcompact3d/Incompact3d): Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation for [paper](https://www.sciencedirect.com/science/article/pii/S0098300421001710)</br>
-Schuch, F. N., Meiburg, E., & Silvestrini, J. H., Plunging criterion for particle-laden flows over sloping bottoms: Three-dimensional turbulence-resolving simulations, Computers & Geosciences, 104880,</br>
+[Incompact3d](https://github.com/xcompact3d/Incompact3d): **Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation** for [paper](https://www.sciencedirect.com/science/article/pii/S0098300421001710)</br>
+Schuch, F. N., Meiburg, E., & Silvestrini, J. H., "Plunging criterion for particle-laden flows over sloping bottoms: Three-dimensional turbulence-resolving simulations", Computers & Geosciences, 104880,</br>
 and many other papers listed [here](https://www.incompact3d.com/impact.html)
 
