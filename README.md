@@ -32,6 +32,6 @@ Daisuke Takahashi: "Implementation of Parallel 3-D Real FFT with 2-D Decompositi
 
 [d3q and thermal2](https://github.com/anharmonic/d3q) for</br>
 Limits of the quasiharmonic approximation in MgO: Volume dependence of optical modes investigated by infrared reflectivity and ab initio calculations E Calandrini, L Paulatto, et.al. Physical Review B 103 (5), 054302 (2021)</br>
-Functional Monochalcogenides: Raman Evidence Linking Properties, Structure, and Metavalent Bonding C Bellin, et.al. Physical Review Letters 125 (14), 145301</br>
-Thermal conductivity of from bulk to thin films: Theory and experiment. L Paulatto, D Fournier, M Marangolo, M Eddrief, P Atkinson, M Calandra Physical Review B 101 (20), 205419</br>
-Anharmonic coupling, thermal transport and acoustic wave attenuation in cubic semiconductors and bismuth. M Markov, J Sjakste, N Vast, B Perrin, L Paulatto Journal of Physics: Conference Series 1461 (1), 012165
+Functional Monochalcogenides: Raman Evidence Linking Properties, Structure, and Metavalent Bonding C Bellin, et.al. Physical Review Letters 125 (14), 145301 (2020)</br>
+Thermal conductivity of from bulk to thin films: Theory and experiment. L Paulatto, D Fournier, M Marangolo, M Eddrief, P Atkinson, M Calandra Physical Review B 101 (20), 205419 (2020)</br>
+Anharmonic coupling, thermal transport and acoustic wave attenuation in cubic semiconductors and bismuth. M Markov, J Sjakste, N Vast, B Perrin, L Paulatto Journal of Physics: Conference Series 1461 (1), 012165 (2020)
