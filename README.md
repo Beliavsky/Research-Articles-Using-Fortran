@@ -39,3 +39,6 @@ Daisuke Takahashi: "Implementation of Parallel 3-D Real FFT with 2-D Decompositi
 [Scalable Computing for Advanced Library and Environment (SCALE)](https://github.com/scale-met/scale) for </br>
 Sato, Y., Y. Miyamoto, and H. Tomita, 2021, Lightning frequency in an idealized hurricane-like vortex from initial to steady-state using a coupled meteorological and explicit bulk lightning model. Mon. Wea. Rev., 149, 753-771, doi:10.1175/MWR-D-20-0110.1</br>
 and other [papers](https://scale.riken.jp/publications/)
+
+[F2A](https://github.com/yang7857854/F2A): **aero-hydro-servo-elastic for performing fully coupled analysis of floating offshore wind turbines** for paper</br>
+Yang, Y., Bashir, M., Michailides, C., Li, C., & Wang, J. (2020). Development and application of an aero-hydro-servo-elastic coupling framework for analysis of floating offshore wind turbines. Renewable Energy,161 (23): 606-625. https://doi.org/10.1016/j.renene.2020.07.134.
