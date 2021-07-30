@@ -35,3 +35,7 @@ Daisuke Takahashi: "Implementation of Parallel 3-D Real FFT with 2-D Decompositi
 "Functional Monochalcogenides: Raman Evidence Linking Properties, Structure, and Metavalent Bonding" C Bellin, et.al. Physical Review Letters 125 (14), 145301 (2020)</br>
 "Thermal conductivity of from bulk to thin films: Theory and experiment". L Paulatto, D Fournier, M Marangolo, M Eddrief, P Atkinson, M Calandra Physical Review B 101 (20), 205419 (2020)</br>
 "Anharmonic coupling, thermal transport and acoustic wave attenuation in cubic semiconductors and bismuth" . M Markov, J Sjakste, N Vast, B Perrin, L Paulatto Journal of Physics: Conference Series 1461 (1), 012165 (2020)
+
+[Scalable Computing for Advanced Library and Environment (SCALE)](https://github.com/scale-met/scale) for </br>
+Sato, Y., Y. Miyamoto, and H. Tomita, 2021, Lightning frequency in an idealized hurricane-like vortex from initial to steady-state using a coupled meteorological and explicit bulk lightning model. Mon. Wea. Rev., 149, 753-771, doi:10.1175/MWR-D-20-0110.1</br>
+and other [papers](https://scale.riken.jp/publications/)
