@@ -42,3 +42,8 @@ and other [papers](https://scale.riken.jp/publications/)
 
 [F2A](https://github.com/yang7857854/F2A): **aero-hydro-servo-elastic for performing fully coupled analysis of floating offshore wind turbines** for paper</br>
 Yang, Y., Bashir, M., Michailides, C., Li, C., & Wang, J. (2020). Development and application of an aero-hydro-servo-elastic coupling framework for analysis of floating offshore wind turbines. Renewable Energy,161 (23): 606-625. https://doi.org/10.1016/j.renene.2020.07.134.
+
+[Multi-component Flow Code (MFC)](https://github.com/ComputationalFlowPhysics/MFC-Caltech) for papers </br>
+S. H. Bryngelson, K. Schmidmayer, V. Coralic, K. Maeda, J. Meng, T. Colonius (2020). "MFC: An open-source high-order multi-component, multi-phase, and multi-scale compressible flow solver" Computer Physics Communications 4655, 107396</br>
+S. H. Bryngelson and T. Colonius (2020). "Simulation of humpback whale bubble-net feeding models"  Journal of the Acoustical Society of America, Vol. 147, pp. 1126-1135</br>
+K. Schmidmayer, S. H. Bryngelson, T. Colonius (2020). "An assessment of multicomponent flow models and interface capturing schemes for spherical bubble dynamics" Journal of Computational Physics, Vol. 402, 109080
