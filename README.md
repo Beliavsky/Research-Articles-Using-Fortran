@@ -49,6 +49,4 @@ S. H. Bryngelson and T. Colonius (2020). "Simulation of humpback whale bubble-ne
 K. Schmidmayer, S. H. Bryngelson, T. Colonius (2020). "An assessment of multicomponent flow models and interface capturing schemes for spherical bubble dynamics" Journal of Computational Physics, Vol. 402, 109080
 
 [code](https://github.com/Nicholaswogan/Wogan_and_Catling_2020_pre_revisions) for [paper](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b81) </br>
-When is Chemical Disequilibrium in Earth-like Planetary Atmospheres a Biosignature versus an Anti-biosignature? Disequilibria from Dead to Living Worlds
-Nicholas F. Wogan and David C. Catling
-The Astrophysical Journal, Volume 892, Number 2
+Nicholas F. Wogan and David C. Catling (2020). "When is Chemical Disequilibrium in Earth-like Planetary Atmospheres a Biosignature versus an Anti-biosignature? Disequilibria from Dead to Living Worlds", The Astrophysical Journal, Volume 892, Number 2
