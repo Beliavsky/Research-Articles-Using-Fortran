@@ -50,3 +50,6 @@ K. Schmidmayer, S. H. Bryngelson, T. Colonius (2020). "An assessment of multicom
 
 [code](https://github.com/Nicholaswogan/Wogan_and_Catling_2020_pre_revisions) for [paper](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b81) </br>
 Nicholas F. Wogan and David C. Catling (2020). "When is Chemical Disequilibrium in Earth-like Planetary Atmospheres a Biosignature versus an Anti-biosignature? Disequilibria from Dead to Living Worlds", The Astrophysical Journal, Volume 892, Number 2
+
+[code](https://github.com/Liujie-SYSU/WorkflowCodes) for [paper](https://www.sciencedirect.com/science/article/abs/pii/S0012825221000180) </br>
+Jie Liu & Regenauer-Lieb, (2021). "Applications of percolation theory on micro-tomography of rocks, Earth-Science Reviews", V.104, 103519, doi: 10.1016/j.earscirev.2021.103519
