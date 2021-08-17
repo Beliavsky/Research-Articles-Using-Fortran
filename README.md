@@ -58,5 +58,5 @@ Jie Liu & Regenauer-Lieb, (2021). "Applications of percolation theory on micro-t
 Shr-Chuan Yang & Tony Wen-Hann Sheu (2021). "Analysis of electro-osmotic flow by lattice Boltzmann simulation and Helmholtz-Smoluchowski formula", Numerical Heat Transfer, Part B: Fundamentals, 79:3, 130-149, DOI: 10.1080/10407790.2020.1819694
 
 [SUTRASET](https://github.com/SUTRASET/SUTRASET): **extended USGS SUTRA model with incorporation of seepage, evaporation and tide** for </br>
-Shen, C., Zhang, C., Xin, P., Kong, J., & Li, L. (2018). Salt Dynamics in Coastal Marshes: Formation of Hypersaline Zones. Water Resources Research, 1–18. https://doi.org/10.1029/2017WR022021 </br>
-America, Ilja, Zhang, Chenming, Werner, Adrian D. and Zee, Sjoerd E. A. T. M. (2020) Evaporation and salt accumulation effects on riparian freshwater lenses. Water Resources Research, . doi:10.1029/2019wr026380
+Shen, C., Zhang, C., Xin, P., Kong, J., & Li, L. (2018). "Salt Dynamics in Coastal Marshes: Formation of Hypersaline Zones". Water Resources Research, 1–18. https://doi.org/10.1029/2017WR022021 </br>
+America, Ilja, Zhang, Chenming, Werner, Adrian D. and Zee, Sjoerd E. A. T. M. (2020). "Evaporation and salt accumulation effects on riparian freshwater lenses". Water Resources Research, doi:10.1029/2019wr026380
