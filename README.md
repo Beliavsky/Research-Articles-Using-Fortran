@@ -53,3 +53,6 @@ Nicholas F. Wogan and David C. Catling (2020). "When is Chemical Disequilibrium 
 
 [code](https://github.com/Liujie-SYSU/WorkflowCodes) for [paper](https://www.sciencedirect.com/science/article/abs/pii/S0012825221000180) </br>
 Jie Liu & Regenauer-Lieb, (2021). "Applications of percolation theory on micro-tomography of rocks, Earth-Science Reviews", V.104, 103519, doi: 10.1016/j.earscirev.2021.103519
+
+[EOF](https://github.com/parkerYang0715/EOF) for </br>
+Shr-Chuan Yang & Tony Wen-Hann Sheu (2021). "Analysis of electro-osmotic flow by lattice Boltzmann simulation and Helmholtz-Smoluchowski formula", Numerical Heat Transfer, Part B: Fundamentals, 79:3, 130-149, DOI: 10.1080/10407790.2020.1819694
