@@ -48,11 +48,15 @@ S. H. Bryngelson, K. Schmidmayer, V. Coralic, K. Maeda, J. Meng, T. Colonius (20
 S. H. Bryngelson and T. Colonius (2020). "Simulation of humpback whale bubble-net feeding models"  Journal of the Acoustical Society of America, Vol. 147, pp. 1126-1135</br>
 K. Schmidmayer, S. H. Bryngelson, T. Colonius (2020). "An assessment of multicomponent flow models and interface capturing schemes for spherical bubble dynamics" Journal of Computational Physics, Vol. 402, 109080
 
-[code](https://github.com/Nicholaswogan/Wogan_and_Catling_2020_pre_revisions) for [paper](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b81) </br>
+[Wogan_and_Catling_2020_pre_revisions](https://github.com/Nicholaswogan/Wogan_and_Catling_2020_pre_revisions) for [paper](https://iopscience.iop.org/article/10.3847/1538-4357/ab7b81) </br>
 Nicholas F. Wogan and David C. Catling (2020). "When is Chemical Disequilibrium in Earth-like Planetary Atmospheres a Biosignature versus an Anti-biosignature? Disequilibria from Dead to Living Worlds", The Astrophysical Journal, Volume 892, Number 2
 
-[code](https://github.com/Liujie-SYSU/WorkflowCodes) for [paper](https://www.sciencedirect.com/science/article/abs/pii/S0012825221000180) </br>
+[WorkflowCodes](https://github.com/Liujie-SYSU/WorkflowCodes) for [paper](https://www.sciencedirect.com/science/article/abs/pii/S0012825221000180) </br>
 Jie Liu & Regenauer-Lieb, (2021). "Applications of percolation theory on micro-tomography of rocks, Earth-Science Reviews", V.104, 103519, doi: 10.1016/j.earscirev.2021.103519
 
 [EOF](https://github.com/parkerYang0715/EOF) for [paper](https://www.tandfonline.com/doi/abs/10.1080/10407790.2020.1819694)</br>
 Shr-Chuan Yang & Tony Wen-Hann Sheu (2021). "Analysis of electro-osmotic flow by lattice Boltzmann simulation and Helmholtz-Smoluchowski formula", Numerical Heat Transfer, Part B: Fundamentals, 79:3, 130-149, DOI: 10.1080/10407790.2020.1819694
+
+[SUTRASET](https://github.com/SUTRASET/SUTRASET): **extended USGS SUTRA model with incorporation of seepage, evaporation and tide** for </br>
+Shen, C., Zhang, C., Xin, P., Kong, J., & Li, L. (2018). Salt Dynamics in Coastal Marshes: Formation of Hypersaline Zones. Water Resources Research, 1–18. https://doi.org/10.1029/2017WR022021 </br>
+America, Ilja, Zhang, Chenming, Werner, Adrian D. and Zee, Sjoerd E. A. T. M. (2020) Evaporation and salt accumulation effects on riparian freshwater lenses. Water Resources Research, . doi:10.1029/2019wr026380
