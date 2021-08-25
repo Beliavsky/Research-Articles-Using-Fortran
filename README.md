@@ -62,5 +62,4 @@ Shen, C., Zhang, C., Xin, P., Kong, J., & Li, L. (2018). "Salt Dynamics in Coast
 America, Ilja, Zhang, Chenming, Werner, Adrian D. and Zee, Sjoerd E. A. T. M. (2020). "Evaporation and salt accumulation effects on riparian freshwater lenses". Water Resources Research, https://doi.org/10.1029/2019wr026380
 
 [Soil and Water Erosion Tool (SWAT+)](https://github.com/joelz575/swatplus) for </br>
-"Development of Reservoir Operation Functions in SWAT+ for National Environmental Assessment"
-Wu, J., H. Yen (corresponding author), J. G. Arnold, Y. E. Yang, X. Cai, M. J. White, S. Chinnasamy, C. Miao, R. Srinivasan (2020) “Development of Reservoir Operation Functions in SWAT+ for National Environmental Assessment.” Journal of Hydrology, 583, 124556. doi.org/10.1016/j.jhydrol.2020.124556 and other [papers](https://swat.tamu.edu/software/plus/)
+Wu, J., H. Yen, J. G. Arnold, Y. E. Yang, X. Cai, M. J. White, S. Chinnasamy, C. Miao, R. Srinivasan (2020) “Development of Reservoir Operation Functions in SWAT+ for National Environmental Assessment.” Journal of Hydrology, 583, 124556. doi.org/10.1016/j.jhydrol.2020.124556 and other [papers](https://swat.tamu.edu/software/plus/)
