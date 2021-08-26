@@ -63,3 +63,7 @@ America, Ilja, Zhang, Chenming, Werner, Adrian D. and Zee, Sjoerd E. A. T. M. (2
 
 [Soil and Water Erosion Tool (SWAT+)](https://github.com/joelz575/swatplus) for </br>
 Wu, J., H. Yen, J. G. Arnold, Y. E. Yang, X. Cai, M. J. White, S. Chinnasamy, C. Miao, R. Srinivasan (2020) “Development of Reservoir Operation Functions in SWAT+ for National Environmental Assessment.” Journal of Hydrology, 583, 124556. doi.org/10.1016/j.jhydrol.2020.124556 and other [papers](https://swat.tamu.edu/software/plus/)
+
+[siQ-ChIP: sans spike-in Quantitative ChIP-seq](https://github.com/BradleyDickson/siQ-ChIP) for</br>
+J Biol Chem. 2020 Nov 20;295(47):15826-15837. https://doi.org/10.1074/jbc.RA120.015353. Epub 2020 Sep 29. "A physical basis for quantitative ChIP-sequencing" by
+Bradley M Dickson, Rochelle L Tiedemann, Alison A Chomiak, Evan M Cornett, Robert M Vaughan, and Scott B Rothbart
