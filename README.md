@@ -67,3 +67,7 @@ Wu, J., H. Yen, J. G. Arnold, Y. E. Yang, X. Cai, M. J. White, S. Chinnasamy, C.
 [siQ-ChIP: sans spike-in Quantitative ChIP-seq](https://github.com/BradleyDickson/siQ-ChIP) for</br>
 J Biol Chem. 2020 Nov 20;295(47):15826-15837. https://doi.org/10.1074/jbc.RA120.015353. Epub 2020 Sep 29. "A physical basis for quantitative ChIP-sequencing" by
 Bradley M Dickson, Rochelle L Tiedemann, Alison A Chomiak, Evan M Cornett, Robert M Vaughan, and Scott B Rothbart
+
+[GIMPM-SSA-Damage](https://github.com/alex-huth/GIMPM_SSA_Damage) for </br>
+Huth, A., Duddu, R., & Smith, B. (2021a). A generalized interpolation material point method for shallow ice shelves. 1: Shallow shelf approximation and ice thickness evolution. Journal of Advances in Modeling Earth Systems, 13, e2020MS002277. https://doi.org/10.1029/2020MS002277 </br>
+Huth, A., Duddu, R., & Smith, B. (2021b). A generalized interpolation material point method for shallow ice shelves. 2: Anisotropic nonlocal damage mechanics and rift propagation. Journal of Advances in Modeling Earth Systems, 13, e2020MS002292. https://doi.org/10.1029/2020MS002292
