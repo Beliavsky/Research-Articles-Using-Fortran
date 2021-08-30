@@ -71,3 +71,7 @@ Bradley M Dickson, Rochelle L Tiedemann, Alison A Chomiak, Evan M Cornett, Rober
 [GIMPM-SSA-Damage](https://github.com/alex-huth/GIMPM_SSA_Damage) for </br>
 Huth, A., Duddu, R., & Smith, B. (2021a). A generalized interpolation material point method for shallow ice shelves. 1: Shallow shelf approximation and ice thickness evolution. Journal of Advances in Modeling Earth Systems, 13, e2020MS002277. https://doi.org/10.1029/2020MS002277 </br>
 Huth, A., Duddu, R., & Smith, B. (2021b). A generalized interpolation material point method for shallow ice shelves. 2: Anisotropic nonlocal damage mechanics and rift propagation. Journal of Advances in Modeling Earth Systems, 13, e2020MS002292. https://doi.org/10.1029/2020MS002292
+
+[gpmaterials](https://github.com/felipefr/gpmaterials) for [paper](https://www.sciencedirect.com/science/article/pii/S0045794921001577) </br>
+Computers & Structures, Volume 255, 15 October 2021, 106635, "Damage-driven strain localisation in networks of fibres: A computational homogenisation approach" by 
+Felipe Figueredo Rocha, Pablo Javier Blanco, Pablo Javier Sánchez, Eduardode Souza Neto, and Raúl Antonino Feijóo and other papers
