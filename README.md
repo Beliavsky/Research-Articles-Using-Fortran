@@ -76,5 +76,5 @@ Huth, A., Duddu, R., & Smith, B. (2021b). A generalized interpolation material p
 Computers & Structures, Volume 255, 15 October 2021, 106635, "Damage-driven strain localisation in networks of fibres: A computational homogenisation approach" by 
 Felipe Figueredo Rocha, Pablo Javier Blanco, Pablo Javier Sánchez, Eduardode Souza Neto, and Raúl Antonino Feijóo and [other papers](https://github.com/felipefr/gpmaterials)
 
-[Quasi-DYNamic earthquake simulator (qdyn)](https://github.com/ydluo/qdyn) for </br>
+[Quasi-DYNamic earthquake simulator (qdyn)](https://github.com/ydluo/qdyn) for [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB019328)</br>
 M. van den Ende, J. Chen, J.P. Ampuero and A. Niemeijer, "Rheological transitions facilitate fault‐spanning ruptures on seismically active and creeping faults", J. of Geophys. Res.: Solid Earth (doi:10.1029/2019JB019328) and other papers
