@@ -78,3 +78,7 @@ Felipe Figueredo Rocha, Pablo Javier Blanco, Pablo Javier Sánchez, Eduardode So
 
 [Quasi-DYNamic earthquake simulator (qdyn)](https://github.com/ydluo/qdyn) for [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB019328)</br>
 M. van den Ende, J. Chen, J.P. Ampuero and A. Niemeijer, "Rheological transitions facilitate fault‐spanning ruptures on seismically active and creeping faults", J. of Geophys. Res.: Solid Earth (doi:10.1029/2019JB019328) and other papers
+
+[Symplectic Integration Methods for Particle Loss Estimation (SIMPLE)](https://github.com/itpplasma/SIMPLE) for </br>
+C. G. Albert, S. V. Kasilov, and W. Kernbichler, "Symplectic integration with non-canonical quadrature for guiding-center orbits in magnetic confinement devices". J. Comp. Phys 403, 109065 (2020), https://doi.org/10.1016/j.jcp.2019.109065, preprint on https://arxiv.org/abs/1903.06885
+
