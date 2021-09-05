@@ -87,3 +87,7 @@ C. G. Albert, S. V. Kasilov, and W. Kernbichler, "Symplectic integration with no
 
 [VolcGases](https://github.com/Nicholaswogan/VolcGases) for [paper](https://iopscience.iop.org/article/10.3847/PSJ/abb99e/meta) </br>
 "Abundant Atmospheric Methane from Volcanism on Terrestrial Planets Is Unlikely and Strengthens the Case for Methane as a Biosignature", by Nicholas Wogan, Joshua Krissansen-Totton, and David C. Catling, Published 2020 October 29, The Planetary Science Journal, Volume 1, Number 3
+
+[specfab](https://github.com/nicholasmr/specfab) for </br>
+Rathmann, N., Hvidberg, C., Grinsted, A., Lilien, D., & Dahl-Jensen, D. (2021). Effect of an orientation-dependent non-linear grain fluidity on bulk directional enhancement factors. Journal of Glaciology, 67(263), 569-575. doi:10.1017/jog.2020.117 and </br>
+Rathmann, N., & Lilien, D. (2021). Inferred basal friction and mass flux affected by crystal-orientation fabrics. Journal of Glaciology, 1-17. doi:10.1017/jog.2021.88
