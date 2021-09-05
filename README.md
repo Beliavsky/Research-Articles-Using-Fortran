@@ -84,3 +84,6 @@ C. G. Albert, S. V. Kasilov, and W. Kernbichler, "Symplectic integration with no
 
 [disorder](https://github.com/jichunlian/disorder) for [paper](https://github.com/jichunlian/disorder) </br>
 "Algorithm for generating irreducible site-occupancy configurations", by Ji-Chun Lian, Hong-Yu Wu, Wei-Qing Huang, Wangyu Hu, and Gui-Fang Huang, Phys. Rev. B 102, 134209 – Published 22 October 2020
+
+[VolcGases](https://github.com/Nicholaswogan/VolcGases) for [paper](https://iopscience.iop.org/article/10.3847/PSJ/abb99e/meta) </br>
+"Abundant Atmospheric Methane from Volcanism on Terrestrial Planets Is Unlikely and Strengthens the Case for Methane as a Biosignature", by Nicholas Wogan, Joshua Krissansen-Totton, and David C. Catling, Published 2020 October 29, The Planetary Science Journal, Volume 1, Number 3
