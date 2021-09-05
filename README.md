@@ -82,3 +82,5 @@ M. van den Ende, J. Chen, J.P. Ampuero and A. Niemeijer, "Rheological transition
 [Symplectic Integration Methods for Particle Loss Estimation (SIMPLE)](https://github.com/itpplasma/SIMPLE) for </br>
 C. G. Albert, S. V. Kasilov, and W. Kernbichler, "Symplectic integration with non-canonical quadrature for guiding-center orbits in magnetic confinement devices". J. Comp. Phys 403, 109065 (2020), https://doi.org/10.1016/j.jcp.2019.109065, preprint on https://arxiv.org/abs/1903.06885
 
+[disorder](https://github.com/jichunlian/disorder) for [paper](https://github.com/jichunlian/disorder) </br>
+"Algorithm for generating irreducible site-occupancy configurations", by Ji-Chun Lian, Hong-Yu Wu, Wei-Qing Huang, Wangyu Hu, and Gui-Fang Huang, Phys. Rev. B 102, 134209 – Published 22 October 2020
