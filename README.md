@@ -91,3 +91,6 @@ C. G. Albert, S. V. Kasilov, and W. Kernbichler, "Symplectic integration with no
 [specfab](https://github.com/nicholasmr/specfab) for </br>
 Rathmann, N., Hvidberg, C., Grinsted, A., Lilien, D., & Dahl-Jensen, D. (2021). Effect of an orientation-dependent non-linear grain fluidity on bulk directional enhancement factors. Journal of Glaciology, 67(263), 569-575. doi:10.1017/jog.2020.117 and </br>
 Rathmann, N., & Lilien, D. (2021). Inferred basal friction and mass flux affected by crystal-orientation fabrics. Journal of Glaciology, 1-17. doi:10.1017/jog.2021.88
+
+[waiwera](https://github.com/waiwera/waiwera) for </br>
+Croucher, A.E., O'Sullivan, M.J., O'Sullivan, J.P, Yeh, A., Burnell, J. and Kissling, W. (2020). Waiwera: A parallel open-source geothermal flow simulator. Computers and Geosciences 141, https://doi.org/10.1016/j.cageo.2020.104529.
