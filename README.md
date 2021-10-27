@@ -94,3 +94,5 @@ Rathmann, N., & Lilien, D. (2021). Inferred basal friction and mass flux affecte
 
 [waiwera](https://github.com/waiwera/waiwera) for </br>
 Croucher, A.E., O'Sullivan, M.J., O'Sullivan, J.P, Yeh, A., Burnell, J. and Kissling, W. (2020). Waiwera: A parallel open-source geothermal flow simulator. Computers and Geosciences 141, https://doi.org/10.1016/j.cageo.2020.104529.
+
+Soren Rasmussen, Ethan D. Gutmann, Irene Moulitsas and Salvatore Filippone (2021). Fortran Coarray Implementation of Semi-Lagrangian Convected Air Particles within an Atmospheric Model. ChemEngineering 2021, 5(2), 21; https://doi.org/10.3390/chemengineering5020021
